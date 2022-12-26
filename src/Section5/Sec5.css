@@ -1,0 +1,75 @@
+
+.ContactMainBody {
+    font-family: 'Axiforma';
+    display: flex;
+    justify-content: space-between;
+    padding: 36px 56px;
+    border: 1px solid rgba(176, 176, 192, 0.3);
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .QuestionFrame {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+  }
+  
+  .Answer {
+    transition: width 2s;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 36px 56px;
+    background: #524fd5;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .QnA {
+    padding: 0px;
+  }
+  
+  .SignImg {
+    height: 36px;
+    width: 36px;
+  }
+  
+  .Answer11
+  {
+    width: 449px;
+    height: 36px;
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    color: #181b32;
+
+  }
+  .Question1 {
+    width: 404px;
+    height: 36px;
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    color: #ffffff;
+  }
+  
+ 
+  
+  .Answer1 {
+    width: 492px;
+    height: 170px;
+    font-family: 'Axiforma';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 190%;
+    color: #ffffff;
+    opacity: 0.7;
+  }
