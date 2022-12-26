@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YouVah_task/static/css/main.bf78ed50.css",
+    "main.js": "/YouVah_task/static/js/main.66bf5cfa.js",
+    "static/js/787.573ea6bb.chunk.js": "/YouVah_task/static/js/787.573ea6bb.chunk.js",
+    "static/media/sec41.png": "/YouVah_task/static/media/sec41.3887ba5a6455be761581.png",
+    "static/media/img1.png": "/YouVah_task/static/media/img1.b76bbb392a9fee923b57.png",
+    "static/media/t1.png": "/YouVah_task/static/media/t1.a765862a068e89f1dfd4.png",
+    "static/media/t2.png": "/YouVah_task/static/media/t2.a04c4f4e1298d606d139.png",
+    "static/media/t3.png": "/YouVah_task/static/media/t3.8797907374ebe87fc99b.png",
+    "static/media/TopImg33.png": "/YouVah_task/static/media/TopImg33.cd680fb019f533fe7662.png",
+    "static/media/TopImg11.png": "/YouVah_task/static/media/TopImg11.9ad48619679cbb6a2b27.png",
+    "static/media/TopImg22.png": "/YouVah_task/static/media/TopImg22.d928155ade69cb352819.png",
+    "index.html": "/YouVah_task/index.html",
+    "main.bf78ed50.css.map": "/YouVah_task/static/css/main.bf78ed50.css.map",
+    "main.66bf5cfa.js.map": "/YouVah_task/static/js/main.66bf5cfa.js.map",
+    "787.573ea6bb.chunk.js.map": "/YouVah_task/static/js/787.573ea6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf78ed50.css",
+    "static/js/main.66bf5cfa.js"
+  ]
+}
